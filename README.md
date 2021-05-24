@@ -1,6 +1,8 @@
 # cyame-个人开发环境快速搭建
 A personally shared dev-env setup plan with some softwares.
 
+自用 公开开源
+
 ## 安装基础依赖*（推荐按顺序）*
 
 - Node.js

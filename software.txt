@@ -1,0 +1,118 @@
+## Search ##
+
+listary
+everything
+
+## IDE ##
+
+vs code
+vs 2017/2019
+idea
+ATOM
+Notepad++
+sublime
+
+## Env ##
+
+python
+anaconda
+ffmpeg
+avisynth + ASIO4ALL(by k-lite)
+DBeaver
+Postman
+Wireshark
+Cocos(Game Dev)
+Git
+yarn
+R(+R studio)
+Java 11/8
+ActivePerl
+CMAKE
+MSYS2
+Node.js 14
+MySQL
+PostgreSQL
+MATLAB
+Plastic SCM
+Pandoc
+mingw
+Redis
+Virtual Box
+
+## Shell ##
+
+cmder
+mobaxterm
+
+## media edit ##
+
+Adobe
+Davinci Resolve
+aegisub
+DD烤肉机
+FL Studio
+小丸工具箱
+Blender
+优动漫(CSP)
+MeGUI
+NegativeEncoder
+
+## Stream ##
+
+captura
+弹幕姬
+直播姬
+Bilibili投稿工具
+Live2D Cubism
+OBS Studio
+VTube Studio
+
+## Utils ##
+
+7-zip
+k-lite
+VLC
+百度网盘
+utorrent
+draw.io
+Duet
+Feem
+Fork
+FontForge
+Honeyview
+IDM
+iTunes
+坚果云
+C4D
+MikTeX
+Libre Office
+Typora
+Sogou Input
+WindirStat
+QQ
+Wechat
+向日葵
+PlayerToys
+Netease/QQ/Kugou Music
+Raidrive
+
+## Support ##
+
+Logitech
+Logi G hub
+GeForce Experience
+Steam++
+GPU-Z
+CPU-Z
+
+## Proxy ##
+
+Clash
+Malus
+Tor
+
+## Portable ##
+
+录制机
+blivechat
+CAJViewer

@@ -1,6 +1,7 @@
 electron
-vue-cli
+@vue/cli
 nuxt
 hexo
 git-cz
 commitizen
+//slidev
